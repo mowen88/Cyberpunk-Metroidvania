@@ -1,0 +1,1 @@
+{"0": {"bullet_speed": 10, "cooldown": 300, "damage": 20, "img": "img/bullets/bullet_0.png", "gun_img": "img/pickups/gun/00.png"}, "1": {"bullet_speed": 30, "cooldown": 100, "damage": 10, "img": "img/bullets/bullet_2.png", "gun_img": "img/pickups/blaster/00.png"}}

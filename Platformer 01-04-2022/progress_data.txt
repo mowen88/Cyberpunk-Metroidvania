@@ -1,0 +1,1 @@
+{"save_point": 0, "entry pos": 0, "block_position": [200, 400], "current_gun": 0, "gun_showing": false}
