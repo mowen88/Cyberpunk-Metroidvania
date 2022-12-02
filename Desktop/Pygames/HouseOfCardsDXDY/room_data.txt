@@ -1,0 +1,4 @@
+{0:[pygame.Surface((self.WIDTH * 2, self.HEIGHT * 2)), (pygame.Rect((0,0), (self.WIDTH * 2, self.HEIGHT * 2)))],
+1:[pygame.Surface((self.WIDTH * 4, self.HEIGHT * 2)), (pygame.Rect((self.WIDTH * 2,0),(self.WIDTH * 2, self.HEIGHT * 2)))],
+2:[pygame.Surface((self.WIDTH * 4, self.HEIGHT * 4)), (pygame.Rect((self.WIDTH * 2, self.HEIGHT *2),(self.WIDTH * 2, self.HEIGHT * 2)))],
+3:[pygame.Surface((self.WIDTH * 2, self.HEIGHT * 4)), (pygame.Rect((0, self.HEIGHT * 2),(self.WIDTH * 2, self.HEIGHT * 2)))]}
