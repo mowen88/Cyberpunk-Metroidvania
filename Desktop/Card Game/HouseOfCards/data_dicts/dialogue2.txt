@@ -1,0 +1,12 @@
+{
+'NPC4':["""I hear you want to talk to me and
+	see if this dialogue box is working.""",
+	"""Fortunately for you, it seems top be
+	working just fine :) """,
+	"""OK, you can go now!? """],
+'NPC5':["""OK, I am going to ask you a question...""", 
+	"""You just have to decide yes or no...""",
+	"""Are you ready to answer?...""",
+	"""You chose yes, this is good!!!""",
+	"""You chose no, I am ashamed of you :("""],
+}

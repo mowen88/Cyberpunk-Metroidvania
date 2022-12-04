@@ -1,0 +1,82 @@
+{
+0:
+{'normal':
+["""Well when they're not funny any more, 
+it's time for them to retire. Been
+useless for a while now if you ask me!""",
+"""I hope he isn't too clever though,
+the last prisoner managed to find the 
+patched up wall and crawl through...""",
+"""Should I head back?... Nah, I'm sure
+it will be fine! Dumb Jester hehe"""],
+'yes':
+["""YES, OK I GET IT!!!"""],
+'no':
+["""You said no, whatever!!!"""],
+'done':
+["""All done mate :)"""],
+'path':
+'img/NPCs/0/idle/0.png'},
+1:
+{'normal':
+["""I hear you want to talk to me and
+see if this dialogue box is working.""",
+"""Fortunately for you, it seems top be
+working just fine :) """,
+"""OK, you can go now!? """],
+'yes':
+["""YES, OK I GET IT!!!"""],
+'no':
+["""You said no, whatever!!!"""],
+'done':
+["""All done mate :)"""],
+'path':
+'img/NPCs/1/idle/0.png'},
+2:
+{'normal':
+["""I hear you want to talk to me and
+see if this dialogue box is working.""",
+"""Fortunately for you, it seems top be
+working just fine :) """,
+"""OK, you can go now!? """],
+'yes':
+["""YES, OK I GET IT!!!"""],
+'no':
+["""You said no, whatever!!!"""],
+'done':
+["""All done mate :)"""],
+'path':
+'img/NPCs/2idle/0.png'},
+3:
+{'normal':
+["""I hear you want to talk to me and
+see if this dialogue box is working.""",
+"""Fortunately for you, it seems top be
+working just fine :) """,
+"""OK, you can go now!? """],
+'yes':
+["""YES, OK I GET IT!!!"""],
+'no':
+["""You said no, whatever!!!"""],
+'done':
+["""All done mate :)"""],
+'path':
+'img/NPCs/3/idle/0.png'},
+4:
+{'normal':
+["""normal text, WTF man!"""],
+'asking':
+["""OK, I am going to ask you a question.""", 
+"""You just have to decide yes or no...""",
+"""Are you ready to answer?..."""],
+'yes':
+["""You chose yes, this is good!!!""",
+"""You now may leave"""],
+'no':
+["""You chose no, I am ashamed of you""",
+"""You are an idiot... really!"""],
+'done':
+["""All done mate :)"""],
+'path':
+'img/NPCs/4/idle/0.png'},
+}
